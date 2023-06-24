@@ -22,4 +22,4 @@ Artist class heir from music class – we override the functions to work to a sp
 Playlist class heir from music class - we override the functions of music and implement save, remove and load functions.
 
 <div align="center">
-  <img src="Project_Hierarchy.png" height="200" style="display: inline-block; margin: 10px;">
+  <img src="Project_Hierarchy.png" height="400" style="display: inline-block; margin: 10px;">
