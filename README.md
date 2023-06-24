@@ -23,5 +23,6 @@ Playlist class heir from music class - we override the functions of music and im
 
 <div align="center">
   <img src="Project_Hierarchy.png" height="400" style="display: inline-block; margin: 10px;">
-
-[Final Project Presentation](Final%20Project%20Presentation.pptx){:target="_blank"}
+  
+Click here to learn more
+<a href="Final%20Project%20Presentation.pptx" target="_blank">Final Project Presentation</a>
