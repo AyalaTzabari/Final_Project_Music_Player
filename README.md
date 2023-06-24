@@ -1,16 +1,20 @@
 <p align="center">
   <a href="https://github.com/AyalaTzabari">
-    <img src="Logo.png" alt="Logo"> 
+    <img src="Music_Player_Picture.png" alt="Logo"> 
 <p align ="center"> 
-<i>Data acquisition and analysis for predicting a research question using <a href="https://www.python.org/">Python🐍</a> & <a href="https://www.selenium.dev/documentation/webdriver/"> Selenium🔥</a>From <a href="https://www.goodreads.com/">GoodReads📚</a> </i>
+<i>Music Player 🎵🎼 <a href="https://code.visualstudio.com/docs/csharp/get-started"> C# </a>
 <br><br>
   
-## About the Project 📖
+## About the Project 🎶
 
-  - The purpose of the study was to check whether it is possible to predict the rating of a book after several years of its publication.
-  
-  - Scraping & Crawling.
-  
-  - Clean the data set & EDA.
-  
-  - Predictive models.
+Class Music is an abstract class that has the functions: Play, Stop, PlayNext , PlayPrevious, Display, Shaffle and CurrentSong.
+
+We override those function in the Genre class- we adapted it to work for every genre. In addition we implement a virtual function that represent the instrument of the genre.
+Pop, Rock and classic classes heiresses from genre class and uses his functions. 
+What is the different between the genres?
+1. The instrument.
+2. Every genre has a different queue of songs.
+
+Artist class heir from music class – we override the functions to work to a specific artist that the account type.
+Playlist class heir from music class - we override the functions of music and implement save, remove and load functions.
+
