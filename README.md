@@ -2,8 +2,12 @@
   <a href="https://github.com/AyalaTzabari">
     <img src="Music_Player_Picture.png" alt="Logo"> 
 <p align ="center"> 
-<i>Music Player 🎵🎼 <a href="https://code.visualstudio.com/docs/csharp/get-started">Using C# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<i>Music Player 🎵🎼 
+<a href="https://code.visualstudio.com/docs/csharp/get-started">Using 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+</i>
 <br><br>
+
   
 ## About the Project 🎶
 
