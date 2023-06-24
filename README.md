@@ -7,16 +7,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 </i>
 <br><br>
-<div>
-  <span style="vertical-align: middle;">
-    <i>Music Player 🎵🎼 Using</i>
-    <a href="https://code.visualstudio.com/docs/csharp/get-started">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="vertical-align: middle;">
-    </a>
-  </span>
-</div>
-
-
   
 ## About the Project 🎶
 
